@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-28T23:23:52 IST" name="Surefire suite" finished-at="2022-06-28T23:23:52 IST" duration-ms="76">
+    <groups>
+      <group name="apple">
+        <method signature="ProgramsTest.program()[pri:0, instance:qaclickacademy.MavenProject.ProgramsTest@4cc8eb05]" name="program" class="qaclickacademy.MavenProject.ProgramsTest"/>
+      </group> <!-- apple -->
+    </groups>
+    <test started-at="2022-06-28T23:23:52 IST" name="Surefire test" finished-at="2022-06-28T23:23:52 IST" duration-ms="76">
+      <class name="qaclickacademy.MavenProject.Testnmnmmnm">
+        <test-method signature="beforeclass()[pri:0, instance:qaclickacademy.MavenProject.Testnmnmmnm@3246fb96]" started-at="2022-06-28T23:23:52 IST" name="beforeclass" finished-at="2022-06-28T23:23:52 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+      </class> <!-- qaclickacademy.MavenProject.Testnmnmmnm -->
+      <class name="qaclickacademy.MavenProject.ProgramsTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:qaclickacademy.MavenProject.ProgramsTest@4cc8eb05]" started-at="2022-06-28T23:23:52 IST" name="beforeclass" finished-at="2022-06-28T23:23:52 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method signature="program()[pri:0, instance:qaclickacademy.MavenProject.ProgramsTest@4cc8eb05]" started-at="2022-06-28T23:23:52 IST" name="program" finished-at="2022-06-28T23:23:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- program -->
+        <test-method signature="program1()[pri:0, instance:qaclickacademy.MavenProject.ProgramsTest@4cc8eb05]" started-at="2022-06-28T23:23:52 IST" name="program1" finished-at="2022-06-28T23:23:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- program1 -->
+      </class> <!-- qaclickacademy.MavenProject.ProgramsTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
