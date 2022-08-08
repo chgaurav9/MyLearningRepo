@@ -10,11 +10,9 @@ public class BaseTest {
 
     public void startDriver() {
         driver = new DriverManager().initializeDriver();
-
     }
 
     public void quitDriver() {
-
         driver.quit();
     }
 }
